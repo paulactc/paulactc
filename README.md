@@ -2,7 +2,7 @@
 <img width="30%" " src="https://github.com/IsabelCollado/IsabelCollado/blob/main/Logo Paula programacion.png" alt="Paula Castillo" />
 </div>
 <h1 align="center" style="color:#ff7800">
-~ Hi there 👋🏻,  I am Paula Castillo Toldos
+~ Hi there 🙋‍♀️,  I am Paula Castillo Toldos
 </h1>
 <h2 align="center">
     <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
 </h2>
 
 - 🔭 I’m currently working on my future.
-- 👩🏼‍💻 I’m currently learning to be a web developer.
+- 👩🏼‍💻 I’m currently learning to become a web developer and I’m constantly evolving.
 - 💬 Feel free to ask me if you have any question or curiosity.
 - 📫 How to reach me: https://www.linkedin.com/in/paula-castillo-toldos/
 
