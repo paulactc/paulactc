@@ -53,3 +53,9 @@
    -Orientación a resultados
    -Capacidad analítica 
 
+
+## 🚀 Actualmente
+
+- 🌱 Explorando **automatización** con IA
+- 📖 Aprendiendo **desarrollo** para optimizar procesos
+- 💡 Buscando **nuevos desafíos** en tecnología
