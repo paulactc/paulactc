@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%" src="https://github.com/paulactc/paulactc/blob/main/Logo%20Paula%20programacion.png" alt="Paula Castillo" />
+<img width="30%" src="https://raw.githubusercontent.com/paulactc/paulactc/main/Logo.png" alt="Paula Castillo" />
 </div>
 <h1 align="center" style="color:#1ADCCDF3">
 ~ Hi there 🙋‍♀️,  I am Paula Castillo Toldos
